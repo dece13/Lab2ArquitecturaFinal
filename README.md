@@ -139,4 +139,4 @@ docker-compose down -v
 
 ---
 
-Desarrollado por Daniel Ceballos - 2025
+Desarrollado por Daniel Castellanos, Miguel Duarte, Sebastian Saavedra- 2025
